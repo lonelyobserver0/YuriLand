@@ -1,0 +1,399 @@
+[2025-04-14 21:33:35.120] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-14 21:33:35.122] [info] Discovered appearance 'dark'
+[2025-04-14 21:33:35.122] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-14 21:33:35.132] [info] Hyprland IPC starting
+[2025-04-14 21:33:35.132] [info] Loading persistent workspaces from Waybar config
+[2025-04-14 21:33:35.132] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:6356): WARNING **: 21:33:35.330: Status Notifier Item with bus name ':1.30' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-04-14 21:33:35.354] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-14 21:33:35.354] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+
+** (waybar:6356): WARNING **: 21:33:35.356: Status Notifier Item with bus name ':1.87' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+
+** (waybar:6356): WARNING **: 21:33:35.370: Status Notifier Item with bus name ':1.87' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+
+** (waybar:6356): WARNING **: 21:33:35.371: Status Notifier Item with bus name ':1.30' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+[2025-04-30 23:15:28.197] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:15:28.201] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:15:28.208] [info] Hyprland IPC starting
+[2025-04-30 23:15:28.209] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:15:28.209] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:3996): WARNING **: 23:15:28.390: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:3996): WARNING **: 23:15:28.390: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:15:28.415] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:15:28.415] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+[2025-04-30 23:15:28.415] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:15:28.415] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:15:33.936] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:15:33.938] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:15:33.946] [info] Hyprland IPC starting
+[2025-04-30 23:15:33.946] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:15:33.946] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:4120): WARNING **: 23:15:34.127: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4120): WARNING **: 23:15:34.127: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:15:34.153] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:15:34.153] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+[2025-04-30 23:16:05.599] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:16:05.601] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:16:05.608] [info] Hyprland IPC starting
+[2025-04-30 23:16:05.609] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:16:05.609] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:4318): WARNING **: 23:16:05.790: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4318): WARNING **: 23:16:05.790: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:16:05.816] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:16:05.816] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+[2025-04-30 23:16:10.900] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:16:10.903] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:16:10.911] [info] Hyprland IPC starting
+[2025-04-30 23:16:10.911] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:16:10.911] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:4443): WARNING **: 23:16:11.092: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4443): WARNING **: 23:16:11.092: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:16:11.116] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:16:11.116] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+[2025-04-30 23:16:11.116] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:16:11.116] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:17:24.940] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:17:24.943] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:17:24.950] [info] Hyprland IPC starting
+[2025-04-30 23:17:24.951] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:17:24.951] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-30 23:17:25.157] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:17:25.157] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+
+** (waybar:4578): WARNING **: 23:17:25.160: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4578): WARNING **: 23:17:25.160: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:17:34.656] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:17:34.658] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:17:34.666] [info] Hyprland IPC starting
+[2025-04-30 23:17:34.666] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:17:34.667] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-30 23:17:34.871] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:17:34.871] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+
+** (waybar:4703): WARNING **: 23:17:34.874: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4703): WARNING **: 23:17:34.874: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:17:58.359] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:17:58.362] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:17:58.370] [info] Hyprland IPC starting
+[2025-04-30 23:17:58.370] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:17:58.370] [info] Loading persistent workspaces from Hyprland workspace rules
+
+** (waybar:4827): WARNING **: 23:17:58.551: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4827): WARNING **: 23:17:58.551: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+[2025-04-30 23:17:58.576] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:17:58.576] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+[2025-04-30 23:17:58.576] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:17:58.576] [error] Item '': No icon name or pixmap given.
+[2025-04-30 23:18:00.995] [info] Using configuration file /home/loneobs/.config/waybar/config.jsonc
+[2025-04-30 23:18:00.997] [info] Using CSS file /home/loneobs/.config/waybar/style.css
+[2025-04-30 23:18:01.005] [info] Hyprland IPC starting
+[2025-04-30 23:18:01.006] [info] Loading persistent workspaces from Waybar config
+[2025-04-30 23:18:01.006] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-04-30 23:18:01.211] [warning] Requested height: 36 is less than the minimum height: 39 required by the modules
+[2025-04-30 23:18:01.211] [info] Bar configured (width: 1920, height: 39) for output: eDP-1
+
+** (waybar:4948): WARNING **: 23:18:01.214: Status Notifier Item with bus name ':1.36' and object path '/org/ayatana/NotificationItem/nm_applet' is already registered
+
+** (waybar:4948): WARNING **: 23:18:01.214: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
+Gdk-Message: 23:20:16.947: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:20:17.269: Unable to load arrow from the cursor theme
+Gdk-Message: 23:23:58.804: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:23:58.826: Unable to load arrow from the cursor theme
+Gdk-Message: 23:23:58.848: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:23:59.020: Unable to load arrow from the cursor theme
+Gdk-Message: 23:23:59.418: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:23:59.426: Unable to load arrow from the cursor theme
+Gdk-Message: 23:24:28.588: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:24:28.596: Unable to load arrow from the cursor theme
+Gdk-Message: 23:24:28.799: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:24:28.814: Unable to load arrow from the cursor theme
+Gdk-Message: 23:24:29.144: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:24:29.158: Unable to load arrow from the cursor theme
+Gdk-Message: 23:24:29.466: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:24:31.452: Unable to load arrow from the cursor theme
+Gdk-Message: 23:24:32.128: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:24:32.142: Unable to load arrow from the cursor theme
+Gdk-Message: 23:26:34.856: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:26:34.880: Unable to load arrow from the cursor theme
+Gdk-Message: 23:26:35.382: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:26:35.389: Unable to load arrow from the cursor theme
+Gdk-Message: 23:27:52.891: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:27:52.905: Unable to load arrow from the cursor theme
+Gdk-Message: 23:27:54.465: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:27:54.473: Unable to load arrow from the cursor theme
+Gdk-Message: 23:31:55.487: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:31:55.869: Unable to load arrow from the cursor theme
+Gdk-Message: 23:31:56.889: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:31:56.919: Unable to load arrow from the cursor theme
+Gdk-Message: 23:31:57.879: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:31:57.887: Unable to load arrow from the cursor theme
+Gdk-Message: 23:35:08.029: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:35:08.037: Unable to load arrow from the cursor theme
+Gdk-Message: 23:35:08.059: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:35:08.075: Unable to load arrow from the cursor theme
+Gdk-Message: 23:35:08.487: Unable to load arrow from the cursor theme
+Gdk-Message: 23:35:21.855: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:35:22.033: Unable to load arrow from the cursor theme
+Gdk-Message: 23:35:22.363: Unable to load arrow from the cursor theme
+Gdk-Message: 23:36:49.201: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:36:49.343: Unable to load arrow from the cursor theme
+Gdk-Message: 23:36:50.909: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:14.877: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:14.891: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:15.071: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:15.387: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:15.455: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:15.469: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:16.211: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:22.359: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:22.381: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:22.397: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:22.403: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:22.411: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:22.809: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:24.129: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:24.151: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:24.871: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:24.877: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:46.633: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:46.692: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:49.243: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:49.251: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:50.135: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:50.217: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.603: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:59.611: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.633: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:59.835: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.865: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:59.873: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.903: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:59.911: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.949: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:37:59.955: Unable to load arrow from the cursor theme
+Gdk-Message: 23:37:59.985: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:00.015: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:00.039: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:00.045: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:00.871: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:17.993: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:18.023: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:18.045: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:18.053: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:18.301: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:18.331: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:19.567: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:19.583: Unable to load arrow from the cursor theme
+Gdk-Message: 23:38:19.649: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:38:19.673: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:38.163: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:38.199: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:38.343: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:38.379: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:39.707: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:39.721: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:39.827: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:39.871: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:43.725: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:43.883: Unable to load arrow from the cursor theme
+Gdk-Message: 23:40:48.155: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:40:48.163: Unable to load arrow from the cursor theme
+Gdk-Message: 23:41:00.369: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:41:00.383: Unable to load arrow from the cursor theme
+Gdk-Message: 23:41:00.945: Unable to load arrow from the cursor theme
+Gdk-Message: 23:41:09.251: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:41:09.409: Unable to load arrow from the cursor theme
+Gdk-Message: 23:48:24.624: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:48:24.632: Unable to load arrow from the cursor theme
+Gdk-Message: 23:48:24.924: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:02.836: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:02.844: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:02.874: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:02.896: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:03.166: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:03.180: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:03.720: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:21.878: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:21.968: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:22.194: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:22.200: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:50.568: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:50.734: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:50.756: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:51.130: Unable to load arrow from the cursor theme
+Gdk-Message: 23:49:51.888: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:49:51.902: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:05.084: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:05.550: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:39.324: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:39.354: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:39.474: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:39.496: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:39.900: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:40.448: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:40.470: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:40.808: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:40.996: Unable to load arrow from the cursor theme
+Gdk-Message: 23:52:41.122: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:52:41.130: Unable to load arrow from the cursor theme
+Gdk-Message: 23:53:25.692: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:53:25.714: Unable to load arrow from the cursor theme
+Gdk-Message: 23:53:25.752: Unable to load hand2 from the cursor theme
+sh: line 1: activate: command not found
+Gdk-Message: 23:53:26.388: Unable to load arrow from the cursor theme
+Gdk-Message: 23:53:26.688: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:53:26.696: Unable to load arrow from the cursor theme
+Gdk-Message: 23:54:31.528: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:54:31.544: Unable to load arrow from the cursor theme
+Gdk-Message: 23:54:31.558: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:54:31.574: Unable to load arrow from the cursor theme
+Gdk-Message: 23:54:31.762: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:54:31.776: Unable to load arrow from the cursor theme
+Gdk-Message: 23:54:31.912: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:54:31.986: Unable to load arrow from the cursor theme
+Gdk-Message: 23:54:32.287: Unable to load arrow from the cursor theme
+Gdk-Message: 23:55:13.166: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:55:13.190: Unable to load arrow from the cursor theme
+Gdk-Message: 23:55:13.226: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:55:13.250: Unable to load arrow from the cursor theme
+Gdk-Message: 23:55:13.542: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:55:13.548: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:03.800: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:03.822: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:03.846: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:03.980: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:04.190: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:04.356: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:04.476: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:04.506: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:04.836: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:04.842: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:20.392: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:20.556: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:20.572: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:20.774: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:21.620: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:21.636: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:21.644: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:22.266: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:22.280: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:22.302: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:22.310: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:22.542: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:56:22.588: Unable to load arrow from the cursor theme
+Gdk-Message: 23:56:23.030: Unable to load arrow from the cursor theme
+Gdk-Message: 23:57:02.112: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:57:02.134: Unable to load arrow from the cursor theme
+Gdk-Message: 23:57:02.208: Unable to load hand2 from the cursor theme
+sh: line 1: activate: command not found
+Gdk-Message: 23:57:02.636: Unable to load arrow from the cursor theme
+Gdk-Message: 23:57:03.010: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:57:03.019: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:07.084: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:07.100: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:07.758: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:07.908: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:09.896: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:10.150: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:15.368: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:15.556: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:15.788: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:15.818: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:16.786: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:16.868: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:16.928: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:16.943: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:39.418: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:39.426: Unable to load arrow from the cursor theme
+Gdk-Message: 23:59:39.448: Unable to load hand2 from the cursor theme
+Gdk-Message: 23:59:39.478: Unable to load arrow from the cursor theme
+Gdk-Message: 00:30:52.469: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:30:52.483: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:31.957: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:33:32.077: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:32.241: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:33:32.325: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:33.223: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:33:33.247: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:33.427: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:33:33.449: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:34.169: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:33:34.205: Unable to load arrow from the cursor theme
+Gdk-Message: 00:33:34.551: Unable to load arrow from the cursor theme
+Gdk-Message: 00:34:16.675: Unable to load hand2 from the cursor theme
+sh: line 1: activate: command not found
+Gdk-Message: 00:34:17.591: Unable to load arrow from the cursor theme
+Gdk-Message: 00:35:29.733: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:35:29.741: Unable to load arrow from the cursor theme
+Gdk-Message: 00:35:31.351: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:35:31.375: Unable to load arrow from the cursor theme
+Gdk-Message: 00:35:31.705: Unable to load arrow from the cursor theme
+Gdk-Message: 00:35:52.373: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:35:52.411: Unable to load arrow from the cursor theme
+Gdk-Message: 00:35:52.973: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:35:52.981: Unable to load arrow from the cursor theme
+Gdk-Message: 00:39:48.149: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:39:48.157: Unable to load arrow from the cursor theme
+Gdk-Message: 00:39:48.324: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:39:48.329: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:04.367: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:04.375: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:04.413: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:04.427: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:04.834: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:04.857: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:06.309: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:06.326: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:06.707: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:06.849: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:06.895: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:06.909: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:06.947: Unable to load hand2 from the cursor theme
+sh: line 1: activate: command not found
+Gdk-Message: 00:48:07.351: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:07.719: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:07.729: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:57.797: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:57.821: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:57.985: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:48:58.015: Unable to load arrow from the cursor theme
+Gdk-Message: 00:48:59.320: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:00.257: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:00.301: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:00.715: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:00.721: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:36.887: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:36.925: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:37.493: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:37.524: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:43.537: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:43.581: Unable to load arrow from the cursor theme
+Gdk-Message: 00:49:43.748: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:49:43.843: Unable to load arrow from the cursor theme
+Gdk-Message: 00:50:04.101: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:50:04.123: Unable to load arrow from the cursor theme
+Gdk-Message: 00:50:04.227: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:50:04.243: Unable to load arrow from the cursor theme
+Gdk-Message: 00:51:02.652: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:51:02.726: Unable to load arrow from the cursor theme
+Gdk-Message: 00:51:02.786: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:51:02.794: Unable to load arrow from the cursor theme
+Gdk-Message: 00:51:03.102: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:51:03.116: Unable to load arrow from the cursor theme
+Gdk-Message: 00:51:03.558: Unable to load hand2 from the cursor theme
+Gdk-Message: 00:51:03.569: Unable to load arrow from the cursor theme
+
+** (waybar:4948): WARNING **: 00:51:15.493: Status Notifier Item with bus name ':1.77' and object path '/org/ayatana/NotificationItem/jetbrains_toolbox' is already registered
