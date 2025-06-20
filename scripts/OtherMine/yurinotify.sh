@@ -1,3 +1,3 @@
 #!/bin/fish
 
-yurind
+yuriadapter
