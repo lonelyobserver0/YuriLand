@@ -4,3 +4,8 @@ My OS is Arch Linux and I use hyprland-git by AUR launched by UWSM (check https:
 
 ## Dependencies
 - hyprland
+- https://github.com/caelestia-dots/shell?tab=readme-ov-file
+- hyprlock
+- hypridle
+- pavucontrol
+- 
