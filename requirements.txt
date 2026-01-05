@@ -1,0 +1,88 @@
+# Hyprland Configuration Requirements
+# Software/packages required for this configuration to work properly
+
+# === Core Hyprland Ecosystem ===
+hyprland
+hyprlock
+hyprpaper
+hypridle
+hyprctl
+hyprpm
+
+# === Status Bars ===
+caelestia-shell
+waybar
+
+# === Terminal Emulators ===
+ptyxis
+foot
+
+# === File Managers ===
+nemo
+dolphin
+thunar
+
+# === Launchers ===
+wofi
+# walker (optional)
+
+# === Notification Daemon ===
+swaync
+
+# === Wallpaper ===
+swww
+
+# === Screenshot ===
+flameshot
+
+# === Input Method ===
+fcitx5
+
+# === Audio ===
+pulseaudio
+pavucontrol
+playerctl
+
+# === System Tools ===
+lxpolkit
+dbus
+systemd
+xrdb
+
+# === Idle Management ===
+swayidle
+
+# === Network/Proxy ===
+clash
+
+# === ASUS ROG Tools (optional, for ASUS laptops) ===
+# rog-control-center
+# asusctl
+
+# === RGB Lighting (optional) ===
+# openrgb
+
+# === Clipboard Manager ===
+copyq
+
+# === Image Viewer ===
+nomacs
+
+# === Applications (referenced in window rules) ===
+firefox
+steam
+materialgram
+virtualbox
+# unity
+# unityhub
+# jetbrains-rider
+# xmcl
+# cryptomator
+
+# === Cursor Themes ===
+# Future-cyan-cursors
+# Nordzy-hyprcursors-white
+
+# === Hyprland Plugins ===
+# hyprbars (via hyprpm)
+# dynamic-cursors (via hyprpm)
