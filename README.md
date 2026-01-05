@@ -11,7 +11,7 @@ See `requirements.txt` for the full list of dependencies.
 Install all dependencies with yay (or paru):
 
 ```bash
-yay -S hyprland hyprlock hyprpaper hypridle waybar ptyxis foot nemo dolphin thunar wofi swaync swww flameshot fcitx5 pulseaudio pavucontrol playerctl polkit-gnome dbus xorg-xrdb swayidle copyq nomacs firefox steam materialgram virtualbox
+paru -S --needed hyprland hyprlock hyprpaper hypridle ptyxis nemo wofi swww flameshot fcitx5 pulseaudio pavucontrol playerctl polkit-gnome dbus xorg-xrdb copyq nomacs firefox steam
 ```
 
 #### Optional packages
