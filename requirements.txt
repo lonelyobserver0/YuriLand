@@ -4,30 +4,24 @@
 # === Core Hyprland Ecosystem ===
 hyprland
 hyprlock
-hyprpaper
 hypridle
 hyprctl
 hyprpm
 
 # === Status Bars ===
-caelestia-shell
 waybar
 
 # === Terminal Emulators ===
-ptyxis
 foot
 
 # === File Managers ===
 nemo
-dolphin
-thunar
 
 # === Launchers ===
 wofi
-# walker (optional)
 
 # === Notification Daemon ===
-swaync
+mako
 
 # === Wallpaper ===
 swww
@@ -39,8 +33,7 @@ flameshot
 fcitx5
 
 # === Audio ===
-pulseaudio
-pavucontrol
+pipewire
 playerctl
 
 # === System Tools ===
@@ -50,10 +43,11 @@ systemd
 xrdb
 
 # === Idle Management ===
-swayidle
+hypridle
 
 # === Network/Proxy ===
 clash
+network-manager-applet
 
 # === ASUS ROG Tools (optional, for ASUS laptops) ===
 # rog-control-center
@@ -70,14 +64,8 @@ nomacs
 
 # === Applications (referenced in window rules) ===
 firefox
-steam
-materialgram
-virtualbox
-# unity
-# unityhub
-# jetbrains-rider
-# xmcl
-# cryptomator
+#steam
+#ayugram
 
 # === Cursor Themes ===
 # Future-cyan-cursors
